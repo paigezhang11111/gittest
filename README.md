@@ -1,1 +1,3 @@
 test
+
+Create a file edtited .gitingore and place...
